@@ -1,0 +1,31 @@
+{
+  "name": "beemail.io",
+  "version": "0.0.1",
+  "description": "The source for beemail.io",
+  "main": "index.js",
+  "scripts": {
+    "hot-win": "",
+    "hot-mac": "",
+    "web-win": "",
+    "web-mac": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beecoders/beemail.io.git"
+  },
+  "keywords": [
+    "beemail.io"
+  ],
+  "author": "beecoders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beecoders/beemail.io/issues"
+  },
+  "homepage": "https://github.com/beecoders/beemail.io#readme",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "gsap": "^1.18.0",
+    "react": "^0.14.2"
+  }
+}
